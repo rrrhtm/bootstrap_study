@@ -1,0 +1,19 @@
+.jumbotron-fluid { 
+  background:url(backimage.jpeg) center no-repeat; 
+  background-size: cover;
+}
+
+.display-4,.lead{
+  color: aliceblue;
+}
+
+.display-3{
+  text-align: center;
+}
+.button_a{
+  text-align: center;
+}
+.footer_t{
+  text-align: center;
+
+}
